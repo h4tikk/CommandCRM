@@ -1,0 +1,2 @@
+class ShiftBreak < ApplicationRecord
+end

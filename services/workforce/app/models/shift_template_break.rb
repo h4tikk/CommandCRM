@@ -1,0 +1,2 @@
+class ShiftTemplateBreak < ApplicationRecord
+end

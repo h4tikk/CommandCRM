@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  shift_id: 
+  replacement_shift_id: 
+  requester_id: 
+  replacement_member_id: 
+  shift_version: 1
+  replacement_shift_version: 1
+  reason: MyText
+  status: 1
+  decided_by: 
+  decided_at: 2026-11-21 15:16:44
+
+two:
+  shift_id: 
+  replacement_shift_id: 
+  requester_id: 
+  replacement_member_id: 
+  shift_version: 1
+  replacement_shift_version: 1
+  reason: MyText
+  status: 1
+  decided_by: 
+  decided_at: 2026-11-21 15:16:44

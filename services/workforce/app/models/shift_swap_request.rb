@@ -1,0 +1,2 @@
+class ShiftSwapRequest < ApplicationRecord
+end

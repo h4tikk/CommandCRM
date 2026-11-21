@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  shift_id: 
+  starts_at: 2026-11-21 14:48:45
+  ends_at: 2026-11-21 14:48:45
+  paid: false
+  kind: 1
+
+two:
+  shift_id: 
+  starts_at: 2026-11-21 14:48:45
+  ends_at: 2026-11-21 14:48:45
+  paid: false
+  kind: 1

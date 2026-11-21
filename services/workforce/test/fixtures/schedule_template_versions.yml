@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  schedule_template_id: 
+  version: 1
+  status: 1
+  cycle_days: 1
+  timezone: MyString
+  effective_from: 2026-11-21
+  effective_to: 2026-11-21
+
+two:
+  schedule_template_id: 
+  version: 1
+  status: 1
+  cycle_days: 1
+  timezone: MyString
+  effective_from: 2026-11-21
+  effective_to: 2026-11-21

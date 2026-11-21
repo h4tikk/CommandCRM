@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  department_id: 
+  period_start: 2026-11-21
+  period_end: 2026-11-21
+  timezone: MyString
+  status: 1
+  revision: 1
+  published_by: 
+
+two:
+  department_id: 
+  period_start: 2026-11-21
+  period_end: 2026-11-21
+  timezone: MyString
+  status: 1
+  revision: 1
+  published_by: 

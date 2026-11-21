@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  schedule_template_version_id: 
+  day_offset: 1
+  shift_template_version_id: 
+  position: 1
+
+two:
+  schedule_template_version_id: 
+  day_offset: 1
+  shift_template_version_id: 
+  position: 1

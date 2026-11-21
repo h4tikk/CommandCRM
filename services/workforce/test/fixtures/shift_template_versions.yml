@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  shift_template_id: 
+  version: 1
+  status: 1
+  start_time: 2026-11-21 14:52:54
+  end_time: 2026-11-21 14:52:54
+  end_day_offset: 1
+  timezone: MyString
+  effective_from: 2026-11-21
+  effective_to: 2026-11-21
+  published_by: 
+
+two:
+  shift_template_id: 
+  version: 1
+  status: 1
+  start_time: 2026-11-21 14:52:54
+  end_time: 2026-11-21 14:52:54
+  end_day_offset: 1
+  timezone: MyString
+  effective_from: 2026-11-21
+  effective_to: 2026-11-21
+  published_by: 

@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  shift_template_version_id: 
+  start_offset_minutes: 1
+  duration_minutes: 1
+  paid: false
+  kind: 1
+
+two:
+  shift_template_version_id: 
+  start_offset_minutes: 1
+  duration_minutes: 1
+  paid: false
+  kind: 1

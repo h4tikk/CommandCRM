@@ -1,0 +1,2 @@
+class ShiftTemplateVersion < ApplicationRecord
+end
